@@ -9,6 +9,6 @@ A simple neural network architecture for MNIST digit classification.
 Training and evaluation code to demonstrate the effectiveness of the custom loss function.
 
 # Repository Structure
-main.py: Main script containing the code for loading the MNIST dataset, defining the custom loss function, creating the neural network model, training the model, and evaluating its performance.
-README.md: Detailed instructions on how to use the repository, explanation of the loss function, and a brief overview of the MNIST dataset.
-requirements.txt: List of required libraries and their versions for easy environment setup.
+**main.py** Main script containing the code for loading the MNIST dataset, defining the custom loss function, creating the neural network model, training the model, and evaluating its performance.
+**README.md** Detailed instructions on how to use the repository, explanation of the loss function, and a brief overview of the MNIST dataset.
+**requirements.txt** List of required libraries and their versions for easy environment setup.
